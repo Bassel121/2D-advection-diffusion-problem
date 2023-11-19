@@ -11,8 +11,7 @@ This repository contains a C++ program using the Deal.ii library to solve a 2D a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Output](#output)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
