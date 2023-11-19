@@ -32,7 +32,7 @@ The code solves an advection-diffusion problem in 2D, where the solution is infl
 ## Installation
 
 1. Install the Deal.ii library by following the instructions on the [Deal.ii website](https://www.dealii.org/).
-2. Clone this repository: `git clone https://github.com/your-username/advection-diffusion-solver.git`
+2. Clone this repository: `git clone https://github.com/Bassel121/advection-diffusion-solver.git`
 3. Compile the code using a C++ compiler with Deal.ii support.
 
 ## Usage ## Output
