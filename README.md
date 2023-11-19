@@ -35,7 +35,7 @@ The code solves an advection-diffusion problem in 2D, where the solution is infl
 2. Clone this repository: `git clone https://github.com/Bassel121/advection-diffusion-solver.git`
 3. Compile the code using a C++ compiler with Deal.ii support.
 
-## Usage ## Output
+## Usage 
 
 Run the executable after compiling the code. The program will perform a series of cycles, generating VTK files for grid and solution visualization. Check the `solver_info.txt` and `mesh_info.txt` files for solver details and mesh information.
 
